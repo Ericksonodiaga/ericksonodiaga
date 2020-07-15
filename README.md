@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi am Erickson 👋
+Follow me on social media
+https://twitter.com/ericksonodiaga
 
 <!--
 **Ericksonodiaga/ericksonodiaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
