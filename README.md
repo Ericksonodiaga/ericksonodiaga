@@ -1,9 +1,6 @@
-### Hi am Erickson Odiaga  👋
-Follow me on social media
-https://twitter.com/ericksonodiaga
 
 <h1 align="center">Hi 👋, I'm Erickson Odiaga</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate fullstack developer majoring in Python/Django stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericksonodiaga" alt="ericksonodiaga" /> </p>
 
