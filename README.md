@@ -10,11 +10,12 @@
 
 - 📝 I regulary write articles on [www.ericksonodiaga.com](www.ericksonodiaga.com)
 
-- 💬 Ask me about **django,python,API,Javascript**
+- 💬 Ask me about **django,python,API,Javascript,php**
 
 - ⚡ Fun fact **love coffee**
 
 ### Blogs posts
+Find me and follow me on the following platforms
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
