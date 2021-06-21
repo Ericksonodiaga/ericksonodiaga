@@ -8,11 +8,11 @@
 
 - 👨‍💻 All of my projects are available at [www.ericksonodiaga.com](www.ericksonodiaga.com)
 
-- 📝 I regulary write articles on [www.ericksonodiaga.com](www.ericksonodiaga.com)
+- 📝 I regulary write articles on [www.ericksonodiaga.com](www.ericksonodiaga.com)/https://developers.decoded.africa/
 
 - 💬 Ask me about **django,python,API,Javascript,php**
 
-- ⚡ Fun fact **love coffee**
+- ⚡ Fun fact **love coding**
 
 ### Blogs posts
 Find me and follow me on the following platforms
