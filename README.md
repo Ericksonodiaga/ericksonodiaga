@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [www.ericksonodiaga.com](www.ericksonodiaga.com)
 
-- 📝 I regulary write articles on [www.ericksonodiaga.com](www.ericksonodiaga.com)/https://developers.decoded.africa/
+- 📝 I regulary write articles on [www.ericksonodiaga.com](www.ericksonodiaga.com)
 
 - 💬 Ask me about **django,python,API,Javascript,php**
 
